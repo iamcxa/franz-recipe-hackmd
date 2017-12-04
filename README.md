@@ -6,14 +6,14 @@
 
 ## Installation
 
-read Franz's [installation] guide and do as follow:
+read Franz's [installation guide] and do as follow:
 
 1. mkdir a new folder called 'dev' under Franz and clone this repo:
 
 ```shell
 mkdir -p "$HOME/Library/Application Support/Franz/recipes/dev"
 &&
-git clone https://github.com/kuyen/franz-recipe-hackmd.git
+git clone https://github.com/iamcxa/franz-recipe-hackmd.git
 ```
 
 2. Reload Franz
@@ -22,8 +22,9 @@ git clone https://github.com/kuyen/franz-recipe-hackmd.git
 
 [MIT] © [iamcxa]
 
-[MIT]:              LICENSE.md
-[Franz]:            https://meetfranz.com
-[Franz Recipe]:           https://github.com/meetfranz/plugins#readme
-[installation]:          https://github.com/meetfranz/plugins/blob/master/docs/integration.md#installation
-[HackMD]:        https://hackmd.io
+[MIT]:                LICENSE.md
+[Franz]:              https://meetfranz.com
+[Franz Recipe]:       https://github.com/meetfranz/plugins#readme
+[installation guide]: https://github.com/meetfranz/plugins/blob/master/docs/integration.md#installation
+[HackMD]:             https://hackmd.io
+[iamcxa]:             https://github.com/kuyen
