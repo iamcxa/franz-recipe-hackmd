@@ -1,0 +1,12 @@
+{
+  "id": "hackmd",
+  "name": "HackMD",
+  "version": "1.0.0",
+  "description": "HackMD is created by engineers for engineers, we are here to improve your life.",
+  "main": "index.js",
+  "author": "iamcxa <iamcxa@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://hackmd.io/"
+  }
+}
